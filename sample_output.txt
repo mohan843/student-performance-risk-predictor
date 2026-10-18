@@ -1,0 +1,4 @@
+$ python predictor.py --attendance 96 --study-hours 14 --assignments-completed 10 --prior-score 90
+Training accuracy: 100.0%
+Risk probability: 0.1%
+Prediction: LOWER RISK
